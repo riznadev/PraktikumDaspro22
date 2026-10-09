@@ -22,7 +22,6 @@ public static void main(String [] args)  {
 
     totalbayar = total_harga - diskon;
 
-    System.out.println("total harga : " + total_harga);
     System.out.println("total diskon : " + diskon);
     System.out.println("total bayar : " + totalbayar);
 
